@@ -1,0 +1,1 @@
+SELECT count(distinct "Код категории") from Категория

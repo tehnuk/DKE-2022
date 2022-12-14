@@ -1,0 +1,1 @@
+SELECT count(distinct "Код клиента") from Клиент

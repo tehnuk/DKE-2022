@@ -1,0 +1,1 @@
+SELECT "Код клиента", count(distinct "Код заказа") as order_count from "Заказ клиента" group by "Код клиента"
